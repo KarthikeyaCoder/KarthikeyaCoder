@@ -1,5 +1,8 @@
+//length of a string
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        String a="Hello";
+        System.out.println(a.length());
+
     }
 }
